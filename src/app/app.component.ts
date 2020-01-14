@@ -13,6 +13,7 @@ export class AppComponent
     group:number = 10;
     desgination:string = 'Engineer';
     department:string = 'Dev';
+   desgination1:string = 'Engineer';
 }
 
 
