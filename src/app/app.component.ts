@@ -11,6 +11,7 @@ export class AppComponent
     name : string = "Prakash";
     age:number = 10;
     group:number = 10;
+    desgination:string = 'Engineer';
 }
 
 
