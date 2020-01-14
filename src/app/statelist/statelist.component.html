@@ -1,0 +1,16 @@
+  <div class="container">
+  <table class="table">
+      <thead>
+         <tr>
+             <th>State Id</th>
+             <th>State Name</th>
+         </tr>
+      </thead>
+      <tbody>
+      <tr *ngFor="let statelist of stateList.StateList">
+      <td>{{statelist.stateId}}</td>
+      <td>{{statelist.stateName}}</td>
+      </tr>
+      </tbody>    
+      </table>
+      </div>
