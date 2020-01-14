@@ -9,6 +9,7 @@ import {Component} from "@angular/core"
 export class AppComponent
 {
     name : string = "Prakash";
+    desgination:string = 'Engineer';
 }
 
 
