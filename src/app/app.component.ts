@@ -12,6 +12,7 @@ export class AppComponent
     age:number = 10;
     group:number = 10;
     desgination:string = 'Engineer';
+   desgination1:string = 'Engineer';
 }
 
 
